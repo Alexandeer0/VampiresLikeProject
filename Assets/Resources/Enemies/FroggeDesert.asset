@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0a9d37e98f0971418200cb14b1c0821, type: 3}
+  m_Name: FroggeDesert
+  m_EditorClassIdentifier: 
+  enemyName: Desert Frogge
+  health: 100
+  speed: 15
+  damage: 5
+  exp: 15
+  dropList:
+  - item2
+  dropChance:
+  - 0.4
+  spawnWeight: 1
+  jumpLength: 40
+  stillTime: 40
+  sprite:
+  - {fileID: 710068772, guid: 78dc95542a9fe574a9819a53f675c92e, type: 3}
+  - {fileID: 1059003209, guid: 78dc95542a9fe574a9819a53f675c92e, type: 3}
+  prefab: {fileID: 2173506978506481016, guid: 346a3441d83c678468f7afacf27ad388, type: 3}

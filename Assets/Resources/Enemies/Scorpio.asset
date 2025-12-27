@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0a9d37e98f0971418200cb14b1c0821, type: 3}
+  m_Name: Scorpio
+  m_EditorClassIdentifier: 
+  enemyName: Scorpio
+  health: 150
+  speed: 4
+  damage: 15
+  exp: 10
+  dropList:
+  - item1
+  dropChance:
+  - 0.6
+  spawnWeight: 1
+  jumpLength: 0
+  stillTime: 0
+  sprite:
+  - {fileID: -710514927, guid: 18aa3cc1e98d0c54bac735c48398c2f7, type: 3}
+  - {fileID: -539883743, guid: 18aa3cc1e98d0c54bac735c48398c2f7, type: 3}
+  prefab: {fileID: 4310660344215387258, guid: 4850f03f60b3bba4ba05a01daf559163, type: 3}

@@ -1,0 +1,16 @@
+{
+  "biomes": [
+    {
+      "name": "Desert",
+      "spawnRate": 1,
+      "lightLevel": 1,
+      "enemies": ["Scorpio", "Walker2", "FroggeDesert", "FroggeForest", "Boss1"]
+    },
+    {
+      "name": "Forest",
+      "spawnRate": 0.8,
+      "lightLevel": 0.8,
+      "enemies": ["Walker2", "FroggeForest"]
+    }
+  ]
+}

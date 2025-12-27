@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0a9d37e98f0971418200cb14b1c0821, type: 3}
+  m_Name: FroggeForest
+  m_EditorClassIdentifier: 
+  enemyName: Forest Frogge
+  health: 75
+  speed: 20
+  damage: 5
+  exp: 20
+  dropList:
+  - item2
+  dropChance:
+  - 0.4
+  spawnWeight: 1
+  jumpLength: 30
+  stillTime: 30
+  sprite:
+  - {fileID: 40792913, guid: c337d6023d3dc354c80577d3708f27ef, type: 3}
+  - {fileID: 266664370, guid: c337d6023d3dc354c80577d3708f27ef, type: 3}
+  prefab: {fileID: 2173506978506481016, guid: 346a3441d83c678468f7afacf27ad388, type: 3}

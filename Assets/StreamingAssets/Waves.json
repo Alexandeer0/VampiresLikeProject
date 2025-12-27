@@ -1,0 +1,58 @@
+{
+    "waves" : [
+        {
+            "enemiesNumber" : 10,
+            "enemiesSpawnTime" : 1,
+            "maxEnemiesAmount" : 10,
+            "enemies" : ["Scorpio"]
+        },
+        {
+            "enemiesNumber" : 10,
+            "enemiesSpawnTime" : 1,
+            "maxEnemiesAmount" : 10,
+            "enemies" : ["FroggeDesert"]
+        },
+        {
+            "enemiesNumber" : 10,
+            "enemiesSpawnTime" : 1,
+            "maxEnemiesAmount" : 10,
+            "enemies" : ["Scorpio", "FroggeDesert"]
+        },
+        {
+            "enemiesNumber" : 1,
+            "enemiesSpawnTime" : 1,
+            "maxEnemiesAmount" : 1,
+            "enemies" : ["Boss1"]
+        },
+        {
+            "enemiesNumber" : 30,
+            "enemiesSpawnTime" : 0.5,
+            "maxEnemiesAmount" : 20,
+            "enemies" : ["Scorpio", "FroggeDesert"]
+        },
+        {
+            "enemiesNumber" : 3,
+            "enemiesSpawnTime" : 1,
+            "maxEnemiesAmount" : 1,
+            "enemies" : ["Boss1", "Boss1", "Boss1"]
+        },
+        {
+            "enemiesNumber" : 30,
+            "enemiesSpawnTime" : 0.5,
+            "maxEnemiesAmount" : 30,
+            "enemies" : ["Scorpio", "FroggeDesert"]
+        },
+        {
+            "enemiesNumber" : 30,
+            "enemiesSpawnTime" : 0.3,
+            "maxEnemiesAmount" : 40,
+            "enemies" : ["Walker2", "FroggeDesert"]
+        },
+        {
+            "enemiesNumber" : 1000,
+            "enemiesSpawnTime" : 0.2,
+            "maxEnemiesAmount" : 50,
+            "enemies" : ["Walker2", "FroggeForest"]
+        }
+    ]
+}

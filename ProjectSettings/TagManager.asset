@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Biome
+  - Experience
+  - Spawner
+  - DropManager
+  - Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2479281703
+    locked: 0
+  - name: Items
+    uniqueID: 3461465771
+    locked: 0
+  - name: Enemies
+    uniqueID: 3266565411
+    locked: 0
+  - name: Player
+    uniqueID: 1206778841
+    locked: 0
+  - name: Effects
+    uniqueID: 2662528987
+    locked: 0
+  - name: UI
+    uniqueID: 2431356081
+    locked: 0
+  m_RenderingLayers:
+  - Default

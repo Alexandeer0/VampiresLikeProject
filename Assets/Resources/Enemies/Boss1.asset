@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0a9d37e98f0971418200cb14b1c0821, type: 3}
+  m_Name: Boss1
+  m_EditorClassIdentifier: 
+  enemyName: Boss1
+  health: 1000
+  speed: 5
+  damage: 20
+  exp: 50
+  dropList:
+  - item1
+  - item2
+  dropChance:
+  - 1
+  - 1
+  jumpLength: 70
+  stillTime: 20
+  sprite:
+  - {fileID: 21300000, guid: d896b8d37ad090048a736bbe086994cf, type: 3}
+  prefab: {fileID: 4310660344215387258, guid: b001b70ce5c8c6a4fa45a2040b151052, type: 3}
